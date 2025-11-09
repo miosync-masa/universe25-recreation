@@ -1,7 +1,8 @@
 # Universe 25: Computational Recreation of Calhoun's Mouse Utopia Collapse
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17538843.svg)](https://doi.org/10.5281/zenodo.17538843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17561722.svg)](https://doi.org/10.5281/zenodo.17561722)
+
 
 > **"The most perfect world for mice became their gravest tomb."** — John B. Calhoun (1973)
 
@@ -204,14 +205,14 @@ If you use this code or findings in your research, please cite:
   author={Iizumi, Masamichi},
   journal={In preparation},
   year={2025},
-  doi={10.5281/zenodo.17538843}
+  doi={10.5281/zenodo.17561722}
 }
 ```
 
 ## 🔗 Related Resources
 
 - **Paper (preprint)**: [docs/paper.pdf](docs/paper.pdf)
-- **Zenodo Archive**: [10.5281/zenodo.17538843](https://doi.org/10.5281/zenodo.17538843)
+- **Zenodo Archive**: [10.5281/zenodo.17561722](https://doi.org/10.5281/zenodo.17561722)
 - **Original Universe 25**: Calhoun, J.B. (1973). *Death squared: The explosive growth and demise of a mouse population*. Proc. Royal Society of Medicine, 66(1):80-88.
 
 ## 🤝 Contributing
